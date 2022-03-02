@@ -1,5 +1,3 @@
-# Or Herbin 206092835
-# Lior Cohen 209493568
 
 import turtle
 import random
